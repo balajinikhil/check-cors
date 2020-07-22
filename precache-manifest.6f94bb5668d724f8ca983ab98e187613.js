@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01e356e25c60138fcc3e3c2ed04c6e25",
+    "revision": "be2b081b5887cc1a0658ff638532ff0a",
     "url": "/check-cors/index.html"
   },
   {
